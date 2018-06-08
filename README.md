@@ -1,6 +1,8 @@
 <h1> Ce repository contient des exemples de Notebook Jupyter utilisables avec <a href="http://datascience.ibm.com">IBM Watson Studio</a> (ex DataScience eXperience)
 <p>
-<h2><a href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection">Challenge Kaggle AdTracking</a> </h2> 
+<img src="http://biblioteca.uoc.edu/sites/default/files/IBM_Data%20Science.png">
+
+<h2>Challenge Kaggle <a href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection">AdTracking</a> </h2> 
 <p>
 Analyse et prédiction des conversions à partir un historique de navigation web
 <ul>
@@ -13,4 +15,3 @@ Analyse de campagnes marketing sur des produits d'assurance IARD et retargeting
 <ul>
 <li> <a href="https://github.com/obarrot/dsx/blob/master/insurance%20CLV.ipynb">insurance CLV.ipynb</a>
 </ul>
-<img src="http://biblioteca.uoc.edu/sites/default/files/IBM_Data%20Science.png">
