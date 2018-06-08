@@ -4,7 +4,7 @@
 
 <h2>Challenge Kaggle <a href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection">AdTracking Fraud detection</a> </h2> 
 <p>
-Analyse et prédiction des conversions à partir un historique de clicks web
+Analyse et prédiction des conversions à partir d'un historique de clicks web (bannières)
 <ul>
     <li>Partie 1 - Exploration de données: <a href="https://github.com/obarrot/dsx/blob/master/AdTracking%20Data%20Exploration.ipynb">AdTracking Data Exploration.ipynb</a>
     <li>Partie 2 - Modélisation XGBoost et publication du modèle entrainé dans <a href="https://www.ibm.com/cloud/machine-learning">Watson ML</a>: <a href="https://github.com/obarrot/dsx/blob/master/AdTracking%20Data%20Modeling.ipynb">AdTracking Data Modeling.ipynb</a>
