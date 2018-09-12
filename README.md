@@ -6,7 +6,7 @@
 <p>
 Analyse et prédiction des conversions à partir d'un historique de clicks web (bannières)
 <ul>
-	<li>Introduction - <a href="https://github.com/obarrot/dsx/blob/master/AdTracking README.pdf">Présentation</a> du projet
+	<li>Introduction - <a href="https://github.ibm.com/TechAcademy2018/DataDealers/blob/master/AdTracking%20README.pdf">Présentation</a> du projet
     <li>Partie 1 - Exploration de données: <a href="https://github.com/obarrot/dsx/blob/master/AdTracking%20Data%20Exploration.ipynb">AdTracking Data Exploration.ipynb</a>
     <li>Partie 2 - Modélisation XGBoost et publication du modèle entrainé dans <a href="https://www.ibm.com/cloud/machine-learning">Watson ML</a>: <a href="https://github.com/obarrot/dsx/blob/master/AdTracking%20Data%20Modeling.ipynb">AdTracking Data Modeling.ipynb</a>
     <li> Partie 3 - <a href="https://datadealerswmltester.mybluemix.net">Client Node.js</a> qui exploite le modèle déployé (API REST) et <a href="https://github.com/jfrieu/wmltester">code</a> associé 
@@ -16,3 +16,6 @@ Analyse de campagnes marketing sur des produits d'assurance IARD et retargeting
 <ul>
 <li> <a href="https://github.com/obarrot/dsx/blob/master/insurance%20CLV.ipynb">insurance CLV.ipynb</a>
 </ul>
+ <p>
+ <img src="dsx.png">
+
